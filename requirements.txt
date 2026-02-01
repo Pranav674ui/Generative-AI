@@ -1,0 +1,3 @@
+streamlit>=1.25.0       # For the web app interface
+transformers>=4.40.0    # For loading GPT-2 model
+torch>=2.1.0            # Backend for transformers (CPU or GPU)
