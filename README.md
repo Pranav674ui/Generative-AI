@@ -1,2 +1,35 @@
-# Generative-AI
-A Generative AI–powered chatbot built using transformer-based language models that can understand user queries and generate human-like responses in real time. This project demonstrates the practical application of Large Language Models (LLMs), Natural Language Processing, and AI deployment using Python and Streamlit.
+# 🤖 Generative AI Chatbot
+
+A simple yet powerful Generative AI Chatbot that uses a transformer-based
+language model to generate human-like responses to user queries.
+
+This project demonstrates the fundamentals of Generative AI, Natural Language
+Processing, and model deployment using modern AI tools.
+
+---
+
+## 🚀 Features
+- Conversational AI chatbot
+- Generates human-like responses
+- Uses a pre-trained transformer model
+- Clean and simple web interface
+- Easy to deploy and extend
+
+---
+
+## 🛠️ Tech Stack
+- Python
+- Hugging Face Transformers
+- PyTorch
+- Streamlit
+- Generative AI (LLMs)
+
+---
+
+## 🧠 Model Used
+- **GPT-2 / DistilGPT-2**
+- Pre-trained language model for text generation
+
+---
+
+## 📂 Project Structure
